@@ -1,0 +1,39 @@
+body
+{
+    background-color: #C9A9A6;
+}
+h1
+{
+    text-align: center;
+    font-family: 'Titan One', cursive;
+}
+.aboutme-border{
+    border: 3px solid black;
+    width: 800px;
+    height: 450px;
+    border-radius: 10%;
+    margin-left: 35%;
+    margin-top: 60px;
+    box-shadow: 15px 10px 10px inset;
+    background-color: black;
+}
+p{
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button{
+    margin-left: 48%;
+    margin-top: 2%;
+    background-color: #4CAF50;
+    border: 1px solid black;
+    padding: 15px 35px;
+    font-size: 25px;
+    border-radius: 25%;
+    box-shadow: 15px 5px 5px;
+}
+button:hover{
+    background-color: bisque;
+}
